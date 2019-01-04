@@ -1,0 +1,9 @@
+name: flash_container
+version: 0.1.0
+
+authors:
+  - Roman Kalnytskyi <moranibaca@gmail.com>
+
+crystal: 0.27.0
+
+license: MIT
